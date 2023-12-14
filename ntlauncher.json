@@ -1,0 +1,18 @@
+[
+	{
+    "id": 0,
+		"ip": "191.96.92.106",
+		"port": 7777,
+		"apiserver1":"http://191.96.92.106/apintlauncher.json",
+		"gamefile" :"ALLDAYGAMES",
+		"name":"ALLDAY GAMES"
+	},
+	{
+    "id": 1,
+		"ip": "45.141.27.208",
+		"port": 7777,
+		"apiserver2":"http://191.96.92.106/apintlauncher2.json",
+		"gamefile" :"LOSTMANCITY",
+		"name":"LOSTMAN CITY"
+	}
+]
