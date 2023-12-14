@@ -1,17 +1,17 @@
 [
 	{
     		"id": 0,
-		"apiserver":"http://191.96.92.106/apintlauncher.json"
+		"apiserver":"http://191.96.92.106/apintlauncher.json",
 		"gamefile" :"ALLDAYGAMES"
 	},
 	{
     		"id": 1,
-		"apiserver":"http://191.96.92.106/apintlauncher2.json"
+		"apiserver":"http://191.96.92.106/apintlauncher2.json",
 		"gamefile" :"LOSTMANCITY"
 	},
 	{
     		"id": 2,
-		"apiserver":"http://191.96.92.106/apintlauncher2.json"
+		"apiserver":"http://191.96.92.106/apintlauncher2.json",
 		"gamefile" :"LOSTMANCITY"
 	}
 ]
